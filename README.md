@@ -1,2 +1,1 @@
-# Sea-Surface-Temperature-
-This is my first GitHub project. 
+# Sea Surface Temperature using Paramteric Gaussain Processes
