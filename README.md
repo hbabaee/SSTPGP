@@ -1,1 +1,1 @@
-# Sea Surface Temperature using Paramteric Gaussain Processes
+# Sea Surface Temperature
